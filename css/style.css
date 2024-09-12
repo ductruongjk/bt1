@@ -1,0 +1,32 @@
+body{
+    background-color: #595547;
+    color: #fff;
+
+}
+h1,h2{
+    color: #9fc2f8
+    
+}
+h1{
+    font-size: 40pt;
+}
+span{
+    color: #fff86b;
+    font-weight: bold;
+    
+}
+.text-italic{
+    font-style: italic;
+}
+a{
+    color: #ff4f4f;
+}
+.basic{
+    color:#fff;
+}
+.mood{
+    height: 300px;
+    
+}
+
+
